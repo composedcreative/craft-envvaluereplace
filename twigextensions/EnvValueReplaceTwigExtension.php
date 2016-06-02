@@ -12,7 +12,7 @@ use Twig_Filter_Method;
  * @copyright Copyright (c) 2016, Compose[d] Creative Corp.
  * @license   GNU GPLv3
  * @package   EnvValueReplace
- * @since     %NEXT_VERSION%
+ * @since     0.1.0
  */
 class EnvValueReplaceTwigExtension extends Twig_Extension
 {
