@@ -1,0 +1,10 @@
+{
+    "name": "composedcreative/envvaluereplace",
+    "license": "GPL-3.0",
+    "minimum-stability": "dev",
+    "description": "Adds the 'envValueReplace' twig filter to Craft CMS projects",
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
